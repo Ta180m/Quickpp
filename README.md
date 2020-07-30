@@ -9,3 +9,9 @@ It's as easy as:
 ```sh
 docker run -rm -it ta180m/quickpp
 ```
+
+Or, if you prefer Alpine:
+
+```sh
+docker run -rm -it ta180m/quickpp:alpine
+```
