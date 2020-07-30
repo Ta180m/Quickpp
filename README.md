@@ -7,11 +7,11 @@
 It's as easy as:
 
 ```sh
-docker run -rm -it ta180m/quickpp
+docker run --rm -it ta180m/quickpp
 ```
 
 By default, it uses Arch, but if you prefer Alpine:
 
 ```sh
-docker run -rm -it ta180m/quickpp:alpine
+docker run --rm -it ta180m/quickpp:alpine
 ```
