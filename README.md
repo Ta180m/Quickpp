@@ -10,7 +10,7 @@ It's as easy as:
 docker run -rm -it ta180m/quickpp
 ```
 
-Or, if you prefer Alpine:
+By default, it uses Arch, but if you prefer Alpine:
 
 ```sh
 docker run -rm -it ta180m/quickpp:alpine
