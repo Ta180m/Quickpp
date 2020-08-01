@@ -1,6 +1,6 @@
 # Quickpp
 
-#### Quickly fire up a C++ editor, compiler, and debugger! GNU Nano, GCC, and GDB included!
+### Quickly fire up a C++ editor, compiler, and debugger! GNU Nano, GCC, and GDB included!
 
 ## Usage
 
