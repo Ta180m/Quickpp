@@ -6,4 +6,4 @@ RUN apk add nano g++ gdb
 
 ENV ENV="/root/.ashrc"
 
-RUN echo $'nano main.cpp\ng++ main.cpp -o main -O3 -std=c++17' > "$ENV"
+RUN echo $'nano main.cpp\ng++ main.cpp -o main -g -std=c++17\ngdb main\n' > "$ENV"
